@@ -46,15 +46,6 @@ iran-war-oil-crisis/
 
 ---
 
-## Quick Start
-
-```bash
-git clone https://github.com/yourusername/iran-war-oil-crisis
-cd iran-war-oil-crisis
-pip install -r requirements.txt
-jupyter notebook iran_war_oil_claude_ai.ipynb
-```
-
 ### Claude API (for RAG module)
 ```bash
 export ANTHROPIC_API_KEY=your_key_here
