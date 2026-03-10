@@ -1,0 +1,5 @@
+phase,date,description,tech_stack
+Phase 1: Intelligence Synthesis,Mar 1-2 2026,Claude embedded in Palantir Maven Smart System processed satellite imagery signals intelligence and surveillance feeds in real-time across classified military networks.,"RAG, Computer Vision, NLP"
+Phase 2: Target Generation,Mar 3 2026 (Day 1),On the first day of Operation Epic Fury Claude generated ~1000 prioritized targets with precise GPS coordinates and weapons recommendations from synthesized multi-source intelligence.,"LLM Reasoning, Geospatial AI, Decision Trees"
+Phase 3: Legal Justification,Mar 3-10 2026,Claude auto-generated legal justifications for each strike target under international humanitarian law — a controversial use of GenAI for compliance in lethal operations.,"Legal AI, GenAI, Document Generation"
+Phase 4: Political Fallout,Feb 28 / Mar 6 2026,Trump banned Anthropic via executive order hours before strikes began over refusal to allow unrestricted military use. OpenAI and xAI moved in to fill the gap.,"Policy, Ethics, AI Governance"
